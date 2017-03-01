@@ -10,7 +10,7 @@
 	<ul>
 		<li><a href="../index.jsp">Labnote</a></li>
 	</ul>
-<h1>Kolaborasi Swasta akademisi</h1>
+<h1>Kolaborasi Swasta Akademisi</h1>
 <p align="justify">
 Satelite Pengambil Informasi Planetlab, menjadi sebuah metode pemasaran nama besar MIT. MIT mencoba mengelaborasikan produk dari perusahaan dengan dasar keilmuan mereka yaitu masalah perteknikan. Planet lab membuat sebuah satelit untuk dijadikan sebuah alat untuk mengambil informasi geografis dari sebuah lokasi geografis. Dengan kolaborasi pemasaran yang dilakukan oleh MIT teknologi review, hal ini akan menjadi sebuah metode pemasaran tersendiri. Selain untuk memasarkan produk satelite ini dengan biaya murah, hal ini juga akan meningkatkan kesadaran teknologi yang berkembang ke civitas MIT. <br>
 Ide yang cukup menarik jika sebuah swasta bergabung dengan civitas dalam review sebuah teknologi. Hal ini akan meningkatkan kepercayaan masyarakat dan memberikan pengenalan tentang  teknologi mereka kepada para civitas akademisi untuk memahami lebih nyata tentang teknologi. Negara tidak perlu mengeluarkan uang lebih untuk melakukan riset untuk para akademisi dan melakukan permodalan kepada para pengusaha sekaligus. Dengan sistem kolaborasi antara swasta dan akademisi tentang merekonstruksi sebuah alat akan menjadikan penelitian untuk para akademisi, dan R&D murah untuk pengusaha. <br>
