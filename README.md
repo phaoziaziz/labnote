@@ -1,0 +1,2 @@
+# labnote
+Ini dia labnotenya
